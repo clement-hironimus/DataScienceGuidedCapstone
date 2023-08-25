@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="144dff2e-5f49-4420-bd35-5deb08145439" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Notebooks/02_data_wrangling.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Notebooks/02_data_wrangling.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Notebooks/03_exploratory_data_analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Notebooks/03_exploratory_data_analysis.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Notebooks/04_preprocessing_and_training.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Notebooks/04_preprocessing_and_training.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ski_data_step3_features.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/ski_data_step3_features.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +53,7 @@
       <updated>1692400837195</updated>
       <workItem from="1692400838876" duration="11120000" />
       <workItem from="1692591386457" duration="1144000" />
-      <workItem from="1692636512974" duration="17846000" />
+      <workItem from="1692636512974" duration="18055000" />
     </task>
     <servers />
   </component>
